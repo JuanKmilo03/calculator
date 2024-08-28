@@ -14,9 +14,7 @@ This project is a simple arithmetic calculator implemented in Python. The calcul
 4. **Division**
 5. **Exit**
 
-### View the Result:
-After selecting an operation and entering the numbers, the program will display the result of the calculation. If you choose division and the divisor is 0, the program will show an error message to handle the division by zero case.
-
+### Result and examples:
 - **Addition**: Allows you to add two numbers.
   - Example: If you select addition and enter 5 and 3, the program will display `5 + 3 = 8`.
 
