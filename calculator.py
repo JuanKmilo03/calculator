@@ -28,8 +28,8 @@ def calculator():
             break
 
         if choice in ['1', '2', '3', '4']:
-            num1 = float(input("Enter the first number: "))
-            num2 = float(input("Enter the second number: "))
+            num1 = float(input("First number: "))
+            num2 = float(input("Second number: "))
 
             if choice == '1':
                 print(f"{num1} + {num2} = {add(num1, num2)}")
