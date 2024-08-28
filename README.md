@@ -16,26 +16,15 @@ This project is a simple arithmetic calculator implemented in Python. The calcul
 
 ### Result and examples:
 - **Addition**: Allows you to add two numbers.
-Select operation:
-1. Add
-2. Subtract
-3. Multiply
-4. Divide
-5. Exit
-Enter the number of the operation (1/2/3/4/5): 1
-First number: 10
-Second number: 20
-10.0 + 20.0 = 30.0
 
 - **Subtraction**: Allows you to subtract one number from another.
-  - Example: If you select subtraction and enter 10 and 4, the program will display `10 - 4 = 6`.
 
 - **Multiplication**: Allows you to multiply two numbers.
-  - Example: If you select multiplication and enter 7 and 6, the program will display `7 * 6 = 42`.
 
 - **Division**: Allows you to divide one number by another, with special handling for division by zero.
-  - Example: If you select division and enter 20 and 4, the program will display `20 / 4 = 5.0`.
+
   - If you attempt to divide by zero, the program will display an error message: `Error: Division by zero is not allowed.`
+
 
 ### Exit Option:
 The program includes an exit option (option 5), allowing you to gracefully terminate the program when you’re finished performing calculations.
