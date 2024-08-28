@@ -16,7 +16,16 @@ This project is a simple arithmetic calculator implemented in Python. The calcul
 
 ### Result and examples:
 - **Addition**: Allows you to add two numbers.
-  - Example: If you select addition and enter 5 and 3, the program will display `5 + 3 = 8`.
+ **Select operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter the number of the operation (1/2/3/4/5): 1
+First number: 10
+Second number: 20
+10.0 + 20.0 = 30.0**
 
 - **Subtraction**: Allows you to subtract one number from another.
   - Example: If you select subtraction and enter 10 and 4, the program will display `10 - 4 = 6`.
