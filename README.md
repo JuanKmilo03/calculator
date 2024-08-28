@@ -46,4 +46,3 @@ To run this program, you need to have Python 3.0 or higher installed on your sys
 4. **View the Result**: The program will display the result of the calculation.
 5. **Repeat or Exit**: You can continue performing operations or choose to exit by selecting option 5.
 
-This calculator is a simple and effective tool for performing basic arithmetic operations, making it a great project for beginners in Python programming.
