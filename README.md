@@ -22,6 +22,7 @@ This project is a simple arithmetic calculator implemented in Python. The calcul
 - **Multiplication**: Allows you to multiply two numbers.
 
 - **Division**: Allows you to divide one number by another, with special handling for division by zero.
+![image](https://github.com/user-attachments/assets/fff48aa8-1c8b-4ef5-9ef4-da6f582f2fb0)
 
   - If you attempt to divide by zero, the program will display an error message: `Error: Division by zero is not allowed.`
 
