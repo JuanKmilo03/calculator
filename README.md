@@ -4,7 +4,7 @@ Python Arithmetic Calculator
 This project is a simple arithmetic calculator implemented in Python. The calculator allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division. The program is designed to run in a loop, allowing you to perform multiple operations until you choose to exit.
 
 Features
-Select the Operation:
+Options:
 When you run the program, a menu appears where you can choose the mathematical operation you want to perform. Simply enter the corresponding number for the operation, and then input the numbers you wish to calculate:
 
 Addition
@@ -12,6 +12,7 @@ Subtraction
 Multiplication
 Division
 Exit
+
 View the Result:
 After selecting an operation and entering the numbers, the program will display the result of the calculation. If you choose division and the divisor is 0, the program will show an error message to handle the division by zero case.
 
