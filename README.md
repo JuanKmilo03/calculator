@@ -6,8 +6,7 @@ This project is a simple arithmetic calculator implemented in Python. The calcul
 
 ## Features
 
-### Select the Operation:
-When you run the program, a menu appears where you can choose the mathematical operation you want to perform. Simply enter the corresponding number for the operation, and then input the numbers you wish to calculate:
+### Options:
 
 1. **Addition**
 2. **Subtraction**
